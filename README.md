@@ -1,7 +1,7 @@
 # Flipkart-MERN
-Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
+Full-Stack Saree_E-commerce with Admin Dashboard.
 
-[Visit Now](https://flipkartwebs.herokuapp.com/) 🚀
+[Visit Now]() 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
@@ -22,14 +22,14 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 **Payment Gateway:**
 
-![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
+<!-- ![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2) -->
 
 **Deployed On:**
 
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<!-- ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
 
 **Image Management:** [Cloudinary](https://cloudinary.com/)
-**Mail Service:** [Sendgrid](https://sendgrid.com/)
+<!-- **Mail Service:** [Sendgrid](https://sendgrid.com/) -->
 
 ## 🚀 Features
 - Login/Signup User Account
@@ -54,9 +54,9 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Stock Management: Decrease stock of product when shipped
 
 ## Sneak Peek of Admin Dashboard 🙈 :
-![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG)
+<!-- ![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG) -->
 
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/64949957/153995383-367cbcc0-cce5-4523-a999-b8d92e44d6ab.jpg" alt="mockup" /></td>
     <td><img src="https://user-images.githubusercontent.com/64949957/153995406-45e36cbc-8d42-4416-b23a-08ad592e4ebc.jpg" alt="mockups" /></td>
@@ -65,15 +65,16 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
     <td><img src="https://user-images.githubusercontent.com/64949957/153996560-bd631f30-46f0-4248-83b3-d8ce44a8f9e4.PNG" alt="mockup" /></td>
     <td><img src="https://user-images.githubusercontent.com/64949957/153996577-57b1a82d-064a-49dc-9055-e2bceb854ab2.PNG" alt="mockups" /></td>
   </tr>
-</table>
+</table> -->
 
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
+[![linkedin](https://www.linkedin.com/in/mufizul-islam-2b4a56285/)]   
+[GitHub](https://github.com/mufizul0)
 
-© 2022 Jigar Sable
+© 2024 Mufizul Islam
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
